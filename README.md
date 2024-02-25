@@ -17,7 +17,6 @@ This Python script uses OpenCV to perform real-time face detection using the Haa
 
 ## Requirements 🛠️
 
-- Python 3.x
 - OpenCV (`pip install opencv-python`)
 
 ## Notes 📝
